@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 gantt
     title A Gantt Diagram
     dateFormat  YYYY-MM-DD
-    section  프로젝트 기획 및 설계
+    section  프로젝트 기획
     API 명세서 작성  : 2025-05-07, 3d
     기획서 작성  : 2025-05-07, 3d
     엔티티 및 ERD 설계  : 2025-05-09, 3d
@@ -44,7 +44,7 @@ gantt
     git 협업 규칙 세팅 : 2025-05-11
     통합 테스트 : 2025-05-18, 2d
 
-    section 발표 및 자료 제출 준비
+    section 최종 제출
     발표 PPT 제작 : 2025-05-19 , 2d
     작성해둔 기획서 정리 : 2025-05-19, 2d
     시스템 구성도 제작 : 2025-05-20
