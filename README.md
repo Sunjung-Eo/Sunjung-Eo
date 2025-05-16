@@ -17,8 +17,9 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
 </p>
 
-### 📈 GitHub Stats
 ---
+
+### 📈 GitHub Stats
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Sunjung-Eo&show_icons=true&theme=tokyonight" alt="Sunjung's GitHub stats" />
   <br/>
