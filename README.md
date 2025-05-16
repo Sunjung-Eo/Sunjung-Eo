@@ -20,10 +20,10 @@
 ---
 
 ### 📈 GitHub Stats
+<h3 align="left">📊 Commit Activity</h3>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sunjung-Eo&show_icons=true&theme=tokyonight" alt="Sunjung's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sunjung-Eo&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sunjung-Eo&theme=tokyonight" width="400"/><br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sunjung-Eo&theme=tokyonight&utcOffset=9" width="400"/>
 </p>
 
 ---
