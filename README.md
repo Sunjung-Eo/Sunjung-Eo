@@ -19,8 +19,7 @@
 
 ---
 
-<h3 align="right">🎓 Education</h3>
-
+<h3 align="left">🎓 Education</h3>
 <p align="left">
   🏫 <strong>SSAFY (Samsung Software Academy for Youth)</strong><br>
   Full-stack Software Engineering Program<br>
