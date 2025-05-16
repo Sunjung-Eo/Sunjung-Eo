@@ -25,7 +25,7 @@
   Full-stack Software Engineering Program<br>
   2024.07 - 2025.02<br><br>
 🏅 <em>1학기 성적우수상 (2등)</em><br>
-  🥇 <em>2학기 공통PJT (Scentify : 사용자 맞춤 스마트 디퓨져) (2등)</em><br>
+  🏅 <em>2학기 공통PJT (Scentify : 사용자 맞춤 스마트 디퓨져) (2등)</em><br>
 
 ---
 
