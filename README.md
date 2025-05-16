@@ -19,9 +19,18 @@
 
 ---
 
+<h3 align="right">🎓 Education</h3>
+
+<p align="left">
+  🏫 <strong>SSAFY (Samsung Software Academy for Youth)</strong><br>
+  Full-stack Software Engineering Program<br>
+  2024.07 - 2025.02<br><br>
+🏅 <em>1학기 성적우수상 (2등)</em><br>
+  🥇 <em>2학기 공통PJT (Scentify : 사용자 맞춤 스마트 디퓨져) (2등)</em><br>
+
+---
+
 ### 📈 GitHub Stats
 <p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sunjung-Eo&theme=tokyonight" width="400"/><br>
 </p>
-
----
