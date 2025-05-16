@@ -1,6 +1,8 @@
 <h1 align="left">Hi 👋, I'm Sunjung</h1>
 <h3 align="left">A passionate backend developer from South Korea</h3>
+
 ---
+
 <h3 align="left">🛠️ Tech Stack</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
