@@ -33,7 +33,7 @@
 
 ---
 
-### 📈 GitHub Stats
+### 📈 GitHub Status
 <p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sunjung-Eo&theme=tokyonight" width="400"/><br>
 </p>
