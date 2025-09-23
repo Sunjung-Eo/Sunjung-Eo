@@ -35,6 +35,15 @@
 
 ---
 
+<h3 align="left">💼 Experience</h3>
+<p align="left">
+  👨‍🏫 <strong>프로그래머스 데브코스 백엔드 교육과정, FT (보조강사)</strong><br>
+  - 수강생 코드 리뷰 및 질의응답 지원<br>
+  - 학습 보조 및 프로젝트 멘토링 (2025.03 - 2025.08)
+</p>
+
+---
+
 ### 📈 GitHub Status
 <p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sunjung-Eo&theme=tokyonight" width="400"/><br>
