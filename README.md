@@ -43,6 +43,11 @@
   :pushpin:  학습 보조 및 프로젝트 멘토링
 </p>
 
+<p align="left">
+  👨‍🏫 <strong>범농협 생성형 AI 활용 교육, 보조강사</strong><br>
+   2025.11<br><br>
+  :pushpin:  수강생 실습 보조 및 질의응답 지원
+</p>
 ---
 
 ### 📈 GitHub Status
