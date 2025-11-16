@@ -1,9 +1,6 @@
 <h1 align="left">Hi 👋, I'm Sunjung</h1>
-<h3 align="left">A passionate backend developer from South Korea</h3>
-
----
-
-<h3 align="left">🛠️ Tech Stack</h3>
+<h2 align="left">A passionate backend developer from South Korea</h3>
+<h2 align="left">🛠️ Tech Stack</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white"/>
@@ -20,12 +17,12 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dify-0050FF?style=flat&logoColor=white"/>
 </p>
-
 
 ---
 
-<h3 align="left">🎓 Education</h3>
+<h2 align="left">🎓 Education</h3>
 <p align="left">
   🏫 <strong>SSAFY (Samsung Software Academy for Youth)</strong><br>
   Full-stack Software Engineering Program<br>
@@ -35,7 +32,7 @@
 
 ---
 
-<h3 align="left">💼 Experience</h3>
+<h2 align="left">💼 Experience</h3>
 <p align="left">
   👨‍🏫 <strong>프로그래머스 데브코스 백엔드 교육과정, FT (보조강사)</strong><br>
    2025.03 - 2025.08<br><br>
@@ -43,7 +40,7 @@
   :pushpin:  학습 보조 및 프로젝트 멘토링
 </p>
 
---- ✦ ---
+<br>
 
 <p align="left">
   👨‍🏫 <strong>범농협 생성형 AI 활용 교육, 보조강사</strong><br>
@@ -53,7 +50,7 @@
 
 ---
 
-### 📈 GitHub Status
+<h2>📈 GitHub Status</h2>
 <p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sunjung-Eo&theme=tokyonight" width="400"/><br>
 </p>
